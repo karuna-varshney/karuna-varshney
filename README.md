@@ -1,3 +1,5 @@
+<div align="center">
+
 # **🧠 Karuna Varshney | AI/ML Researcher**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=🔬+PhD+Researcher+%7C+IIT+Roorkee;🤖+ML%2FDL+in+Genomics+%26+OCD;🎯+GATE+2024%2F25+Cleared;👋+Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
@@ -11,50 +13,44 @@
   <a href="mailto:karuna_v@cs.iitr.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
+  <img src="https://komarev.com/ghpvc/?username=karunavarshney&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/karunavarshney?style=social&logo=github" alt="followers" />
 </div>
 
 <hr/>
 
 <div align="center">
   <h2>🤖 AI/ML PROFILE</h2>
-
-## 🚀 **CORE EXPERTISE**
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 300px;">
-
-### 🤖 **Machine Learning**  
-Neural Networks • Deep Learning  
-Computer Vision • NLP  
-
-### 🧠 **Generative AI**  
-LLMs • RAG Systems  
-Fine-tuning • Prompt Engineering  
-
-### 📊 **Data Science**  
-Statistical Analysis  
-Feature Engineering  
-Model Optimization  
-
-### 🧬 **Bioinformatics**  
-WGCNA Pipeline  
-Module-Trait Relationship  
-Reactome Analysis  
-
 </div>
 
-<div style="flex: 1; max-width: 350px;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E4czJ0b3Y1NG56NGI1czY4M2I2aG44M3E5dXZyN3Q1d3V4YWFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDgf124FTTnpC7y/giphy.gif" alt="Neural Network" width="320"/>
-</div>
+  ## 🚀 **CORE EXPERTISE**
+<div align="left">
+### 🤖 **Machine Learning**
+- Neural Networks • Deep Learning  
+- Computer Vision • NLP
 
-</div>
+### 🧠 **Generative AI**
+- LLMs • RAG Systems  
+- Fine-tuning • Prompt Engineering
 
+### 📊 **Data Science**
+- Statistical Analysis  
+- Feature Engineering  
+- Model Optimization
+
+### 🧬 **Bioinformatics**
+- WGCNA Pipeline  
+- Module-Trait Relationship  
+- Reactome Analysis
+</div>
+<div align="right">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E4czJ0b3Y1NG56NGI1czY4M2I2aG44M3E5dXZyN3Q1d3V4YWFkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aDgf124FTTnpC7y/giphy.gif" width="350" alt="Neural Network Animation](https://www.reddit.com/r/learnmachinelearning/comments/1j66un5/convolutional_neural_network_cnn_data_flow_viz/#lightbox)"/>
 </div>
 
 
----
+## 🎓 **ACADEMIC EXCELLENCE**
+
+
 
 ## 🎓 **ACADEMIC EXCELLENCE**
 
