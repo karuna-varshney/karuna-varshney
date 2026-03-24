@@ -1,37 +1,53 @@
 <div align="center">
 
-## 🚀 **CORE EXPERTISE**
+# **🧠 Karuna Varshney | AI/ML Researcher**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 **Machine Learning**<br>
-Neural Networks • Deep Learning<br>
-Computer Vision • NLP
-
-### 🧠 **Generative AI**<br>
-LLMs • RAG Systems<br>
-Fine-tuning • Prompt Engineering
-
-### 📊 **Data Science**<br>
-Statistical Analysis<br>
-Feature Engineering<br>
-Model Optimization
-
-### 🧬 **Bioinformatics**<br>
-WGCNA Pipeline<br>
-Module-Trait Relationship<br>
-Reactome Analysis
-
-</td>
-<td width="50%">
-<img src="https://github.com/miloharper/neural-network-animation/raw/master/me.gif" alt="Neural Network Animation" width="300"/>
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=🔬+PhD+Researcher+%7C+IIT+Roorkee;🤖+ML%2FDL+in+Genomics+%26+OCD;🎯+GATE+2024%2F25+Cleared;👋+Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/karuna-varshney-84a55bbb">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karuna_v@cs.iitr.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>🤖 AI/ML PROFILE</h2>
+</div>
+
+---
+
+## 🚀 **CORE EXPERTISE**
+
+### 🤖 **Machine Learning**
+- Neural Networks • Deep Learning  
+- Computer Vision • NLP
+
+### 🧠 **Generative AI**
+- LLMs • RAG Systems  
+- Fine-tuning • Prompt Engineering
+
+### 📊 **Data Science**
+- Statistical Analysis  
+- Feature Engineering  
+- Model Optimization
+
+### 🧬 **Bioinformatics**
+- WGCNA Pipeline  
+- Module-Trait Relationship  
+- Reactome Analysis
+
+---
+
+## 🎓 **ACADEMIC EXCELLENCE**
+
 
 ## 🎓 **ACADEMIC EXCELLENCE**
 PhD Computer Science IIT Roorkee|| 
