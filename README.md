@@ -1,5 +1,3 @@
-<div align="center">
-
 # **🧠 Karuna Varshney | AI/ML Researcher**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=🔬+PhD+Researcher+%7C+IIT+Roorkee;🤖+ML%2FDL+in+Genomics+%26+OCD;🎯+GATE+2024%2F25+Cleared;👋+Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
@@ -20,11 +18,6 @@
 
 <div align="center">
   <h2>🤖 AI/ML PROFILE</h2>
-</div>
-
----
-
-<div align="center">
 
 ## 🚀 **CORE EXPERTISE**
 
