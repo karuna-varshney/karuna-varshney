@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=🧠+Karuna+Varshney;🔬+PhD+Researcher+%7C+IIT+Roorkee;🤖+ML%2FDL+in+Genomics+%26+OCD;🎯+GATE+2024%2F25+Cleared;👋+Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=🧠+Karuna+Varshney;🔬+PhD+Researcher+%7C+IIT+Roorkee;🤖+ML%2FDL+in+Genomics;🎯+GATE+2024/25;👋+Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=karunavarshney&style=flat-square&color=blue" alt="karunavarshney github stats" />
@@ -32,26 +32,25 @@
 
 </div>
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,pandas,numpy,langchain,openai,huggingface,git,github,jira" />
-</p>
+**🤖 Machine Learning Frameworks**
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-black?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1-orange?style=flat&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-green?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-1.24-yellow?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-1.3-lightblue?style=flat&logo=scikit-learn)
 
-### 🎯 Core Skills
+**🧠 Generative AI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat&logo=langchain)
+![OpenAI](https://img.shields.io/badge/OpenAI-gray?style=flat&logo=openai)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-green?style=flat&logo=huggingface)
 
-## 🐍 Snake Animation (Hover to Play!)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karunavarshney&show_icons=true&theme=radical" />
-</div>
+**⚡ Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
 
----
 
-<div align="center">
-  <strong>👋 Visitor Count: <img src="https://profile-counter.glitch.me/karunavarshney/count.svg" /></strong>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-</div>
 
