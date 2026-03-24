@@ -6,22 +6,7 @@
 
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/karuna-varshney-84a55bbb">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:karuna_v@cs.iitr.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>🤖 AI/ML PROFILE</h2>
-</div>
-
----
+[... baaki same ...]
 
 <div align="center">
 
@@ -57,6 +42,8 @@ Reactome Analysis
 </table>
 
 </div>
+
+[... baaki same ...]
 
 ---
 
